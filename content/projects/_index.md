@@ -2,6 +2,8 @@
 title: 'Projects'
 date: 2024-05-19
 type: landing
+header:
+  image: ""
 
 # Page sections
 sections:
