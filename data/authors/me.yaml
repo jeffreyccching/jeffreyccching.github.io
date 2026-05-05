@@ -41,10 +41,19 @@ interests:
 education:
   - degree: PhD
     institution: Duke University
+    start: 2023
+  - degree: PhD
+    institution: Penn State University
+    start: 2021
+    end: 2023
   - degree: MS
     institution: Syracuse University
+    start: 2019
+    end: 2021
   - degree: BS
     institution: Stony Brook University
+    start: 2013
+    end: 2017
 
 experience:
   - role: Applied Scientist Intern
@@ -53,24 +62,6 @@ experience:
     end: 2029-09
     summary: |
       TBD
-
-skills:
-  - name: Technical Skills
-    items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
 
 languages:
   - name: English
