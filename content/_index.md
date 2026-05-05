@@ -17,7 +17,7 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
       headings:
-        about: '<span class="hide-me"></span>'
+        about: 'About'
         education: ''
         interests: ''
     design:
