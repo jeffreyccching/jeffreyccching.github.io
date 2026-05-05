@@ -48,21 +48,30 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Publications
+      title: Featured Publications
       filters:
         folders:
           - publications
-        featured_only: false
+        featured_only: true
     design:
       view: article-grid
       columns: 2
+  - block: collection
+    content:
+      title: Recent Publications
+      text: ''
+      filters:
+        folders:
+          - publications
+        exclude_featured: false
+    design:
+      view: citation
   - block: markdown
     id: news
     content:
       title: Recent News
       text: |-
-        * **[2026-05]** Example text-based news item here.
-        * **[2026-04]** Another text-based news item here.
+        * **[2026-05]** Will be joining AWS as applied scientist intern.
     design:
       columns: '1'
   - block: cta-card
