@@ -14,7 +14,7 @@ sections:
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: CV
         url: uploads/resume.pdf
       headings:
         about: 'About'
@@ -51,6 +51,9 @@ sections:
       title: Recent News
       text: |-
         * **[2026-05]** I will be joining AWS as Applied scientist intern this summer
+        * **[2024-06]** Passed prelim exam
+        * **[2023-08]** Moved to Duke
+        * **[2022-02]** Passed qualify exam
     design:
       columns: '1'
   - block: cta-card
