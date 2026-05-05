@@ -1,13 +1,11 @@
-/* Hide the title in the biography block */
-#about h1,
-#about h2,
-#about h3,
-#about .section-heading,
-.blox-resume-biography-3 h1,
-.blox-resume-biography-3 h2,
-.blox-resume-biography-3 .section-heading,
-.blox-resume-biography h1,
-.blox-resume-biography h2,
-.blox-resume-biography .section-heading {
+/* Hide only the header container that has the specific hide-me span */
+div:has(h1:has(.hide-me)),
+div:has(h2:has(.hide-me)),
+div:has(h3:has(.hide-me)),
+div:has(.section-heading:has(.hide-me)) {
+    display: none !important;
+}
+
+.hide-me {
     display: none !important;
 }
