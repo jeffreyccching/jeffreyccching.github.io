@@ -18,7 +18,7 @@ sections:
     content:
       title: Teaching
       text: |-
-        * **Fall 2021**: Teaching Assistant for CMPS 461 at Penn State
+        * **Fall 2021**: Teaching Assistant for CMPSC 461 at Penn State
     design:
       columns: '1'
 ---
