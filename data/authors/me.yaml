@@ -11,7 +11,7 @@ name:
 postnominals: ''
 status:
   icon: 
-role: PhD candidate in Department of Computer Science at Duke University
+role: PhD candidate
 bio: |
   I am a PhD student in the Department of Computer Science at Duke University advised by prof. [Danfeng Zhang](https://users.cs.duke.edu/~dz132/) working on programming languages and security.
   Previously I got my masters working with prof. [Kris Micinski](http://kmicinski.com) from Syracuse University.
@@ -39,11 +39,11 @@ interests:
   - Security
 
 education:
-  - degree: PhD Computer Science
+  - degree: PhD
     institution: Duke University
-  - degree: MS Computer Science
+  - degree: MS
     institution: Syracuse University
-  - degree: BS Computer Science
+  - degree: BS
     institution: Stony Brook University
 
 experience:
