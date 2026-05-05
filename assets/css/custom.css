@@ -1,6 +1,13 @@
 /* Hide the title in the biography block */
-.resume-biography-3 h2,
-.resume-biography-3 .section-heading,
-.resume-biography-3 h1 {
+#about h1,
+#about h2,
+#about h3,
+#about .section-heading,
+.blox-resume-biography-3 h1,
+.blox-resume-biography-3 h2,
+.blox-resume-biography-3 .section-heading,
+.blox-resume-biography h1,
+.blox-resume-biography h2,
+.blox-resume-biography .section-heading {
     display: none !important;
 }
