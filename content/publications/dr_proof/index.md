@@ -12,5 +12,5 @@ tags:
   - Information Flow
   - Type System
 links:
-url_pdf: 'https://arxiv.org/abs/2608.09506'
+url_pdf: 'DR_oopsla2026.pdf'
 ---
