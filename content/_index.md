@@ -50,7 +50,7 @@ sections:
     content:
       title: Recent News
       text: |-
-        * **[2026-05]** I will be joining AWS as Applied scientist intern this summer
+        * **[2026-05]** I will be joining AWS SOS as Applied scientist intern this summer
         * **[2024-06]** Passed prelim exam
         * **[2023-08]** Moved to Duke
         * **[2022-02]** Passed qualify exam
